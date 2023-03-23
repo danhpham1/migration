@@ -1,0 +1,34 @@
+name,code,supplier,default_price,note,source,brand,inventory,created_at,created_by,id,description,deleted,vendor,manufactory,vendor_id,country_id,active,group_code
+G02 Turmeric Serum,PH1209019,,,,,,,2023-03-09 10:34:47.106000 +07:00,vongocphu,14575,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">G02 Turmeric Serum</span></p>,false,,Philippines,,,true,09
+G02 Pureyes Whitening Gel,KH3409008,,,,,,,2023-03-09 10:35:17.217000 +07:00,saphia,14576,,false,,Cambodia,,,true,09
+G02 JAYSUING Esensi Anti Rambut Abu-abu,ID0109025,,,,,,,2023-03-10 16:02:41.576000 +07:00,hoanhnguyet,14641,<p>G02 JAYSUING Esensi Anti Rambut Abu-abu</p>,false,,,,,true,09
+G03 Wart Remove Cream,MY2209011,,,,,,,2023-03-08 14:46:02.210000 +07:00,leminhthanh,14543,,false,,Malaysia,,,true,09
+LZC Dark Spot Cream,LZC09187,,,,,,,2023-03-13 10:04:47.333000 +07:00,vongocphu,14675,<p>LZC Dark Spot Cream</p>,false,,Philippines,,,true,09
+G01 Anti-Fog Glasses Cleaning Cloth,PH0705007,,,,,,,2023-03-13 10:10:57.116000 +07:00,vongocphu,14676,<p>G01 Anti-Fog Glasses Cleaning Cloth</p>,false,,Philippines,,,true,05
+G02 EMS Socks Massage,KH3409009,,,,,,,2023-03-13 15:38:54.709000 +07:00,saphia,14677,,false,,Cambodia,,,true,09
+G02 EMS Socks Massage,KH09009,,,,,,,2023-03-13 15:52:50.265000 +07:00,saphia,14678,,false,,Cambodia,,,true,09
+GOUTTO,MTH360901,,,,,,,2023-03-14 11:35:00.953000 +07:00,phamvanvinh,14707,<p>GOUTTO</p>,false,,Thailand,,,true,09
+CN Nakiz Cream,PH4409004,,,,,,,2023-03-10 08:55:39.751000 +07:00,vongocphu,14608,<p>CN Nakiz Cream</p>,false,,Philippines,,,true,09
+Sinusitis,MTH360902,,,,,,,2023-03-16 14:42:48.052000 +07:00,phamvanvinh,14749,<p>Sinusitis&nbsp;</p>,false,,Thailand,,,true,09
+G02 Air Conditioner,KH3403010,,,,,,,2023-03-16 09:30:13.592000 +07:00,saphia,14741,,false,,Cambodia,,,true,03
+G01 Bioaqua Rice Serum,PH0609009,,,,,,,2023-03-16 10:42:06.045000 +07:00,vongocphu,14743,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">G01 Bioaqua Rice Serum</span></p>,false,,Philippines,,,true,09
+LZC Electric Foot Grinder,LZC09188,,,,,,,2023-03-16 10:50:07.489000 +07:00,vongocphu,14744,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">LZC Electric Foot Grinder</span></p>,false,,Philippines,,,true,03
+G02 Instant Blemish Removal Gel,MY2509015,,,,,,,2023-03-16 10:53:46.311000 +07:00,leminhthanh,14745,,false,,Malaysia,,,true,09
+G03 MESIN LAS,ID0804021,,,,,,,2023-03-16 11:04:01.234000 +07:00,hoanhnguyet,14746,<p>G03 MESIN LAS</p>,false,,,,,true,04
+G03 MESIN LAS,ID0804022,,,,,,,2023-03-16 11:07:07.985000 +07:00,hoanhnguyet,14747,<p>G03 MESIN LAS</p>,false,,,,,true,04
+G02 Scar Gel,PH0309020,,,,,,,2023-03-16 11:10:08.764000 +07:00,vongocphu,14748,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">G02 Scar Gel</span></p>,false,,Philippines,,,true,09
+G02 Electric Lawn Mower 68V,MY25005014,,,,,,,2023-03-15 22:12:19.910000 +07:00,leminhthanh,14740,,false,,Malaysia,,,true,05
+G03 HUNMUI - PASTA GIGI,ID0809025,,,,,,,2023-03-17 05:07:42.233000 +07:00,hoanhnguyet,14750,<p>HUNMUI - PASTA GIGI&nbsp;</p>,false,,,,,true,09
+G02 Chia Seed Cereal,MY1809013,,,,,,,2023-03-13 09:43:09.459000 +07:00,leminhthanh,14674,,false,,Malaysia,,,true,09
+BORA Nordisk Urkraft,BORA09001,,,,,,,2023-03-17 16:59:50.376000 +07:00,vongocphu,14773,<p>BORA Nordisk Urkraft</p>,false,,Philippines,,,true,09
+BORA Intensiv Urkraft,BORA09002,,,,,,,2023-03-17 17:02:01.397000 +07:00,vongocphu,14774,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">BORA Intensiv Urkraft</span></p>,false,,Philippines,,,true,09
+G02 EELHOE NAIL,ID01090026,,,,,,,2023-03-19 06:14:17.153000 +07:00,hoanhnguyet,14806,<p>G02 EELHOE NAIL</p>,false,,,,,true,09
+G02 Changing UV Sunglasses,MY1901016,,,,,,,2023-03-20 13:43:24.829000 +07:00,leminhthanh,14839,,false,,Malaysia,,,true,01
+G02 Pore Primer Cream,MY1909017,,,,,,,2023-03-20 13:44:14.840000 +07:00,leminhthanh,14840,,false,,Malaysia,,,true,09
+G02 Scar Removal Cream,PH1009021,,,,,,,2023-03-22 08:58:54.385000 +07:00,vongocphu,14872,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">G02 Scar Removal Cream</span></p>,false,,Philippines,,,true,09
+G02 Mini Shaver,PH1203022,,,,,,,2023-03-22 11:32:58.575000 +07:00,vongocphu,14873,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">G02 Mini Shaver</span></p>,false,,Philippines,,,true,03
+G03 Lumbar Pain Relief Cream,ID0809026,,,,,,,2023-03-22 11:45:56.309000 +07:00,hoanhnguyet,14874,<p>G03 Lumbar Pain Relief Cream</p>,false,,,,,true,09
+G03 Silicon Waktur,MY2209010,,,,,,,2023-03-08 14:45:12.004000 +07:00,leminhthanh,14542,,false,,Malaysia,,,true,09
+G01 Neck Massage Sticker,PH2809034,,,,,,,2023-03-22 15:05:04.754000 +07:00,vongocphu,14875,<p><span style="color: rgb(0,0,0);font-size: 10pt;font-family: Arial;">G01 Neck Massage Sticker</span></p>,false,,Philippines,,,true,09
+G01 Photochromic Glasses,PH2601008,,,,,,,2023-03-16 10:36:29.461000 +07:00,vongocphu,14742,<p><span style="font-size: 11pt;font-family: Arial;">G01 Photochromic Glasses</span></p>,false,,Philippines,,,true,09
+G01 Rice Serum,MY1709002,,,,,,,2023-03-23 14:17:45.633000 +07:00,leminhthanh,14905,,false,,Malaysia,,,true,09

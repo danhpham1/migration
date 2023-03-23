@@ -1,0 +1,138 @@
+id,code,name,owner,created_at,created_by,updated_at,updated_by,country_id
+14,gb,Gobil Phils New,dinhnguyen,2020-08-19 17:38:48.792000 +07:00,dinhnguyen,2020-08-19 17:38:48.792000 +07:00,dinhnguyen,2484
+7,TB_Team,Táo bạo team,diepanh,2018-12-04 16:21:12.473000 +07:00,dinhnguyen,2018-12-04 16:21:12.473000 +07:00,dinhnguyen,2484
+6,gobiz,Gobiz Test,diepanh,2018-12-03 16:57:42.890000 +07:00,dinhnguyen,2018-12-03 16:57:42.890000 +07:00,dinhnguyen,2484
+1,FR,FinRetail,dinhnguyen,2018-11-26 10:41:16.201016 +07:00,migrate_script,2018-11-26 17:42:47.434000 +07:00,migrate_script,2484
+2,SB,SmartBuy,dohuyentrang183,2018-11-26 10:41:16.201016 +07:00,migrate_script,2018-11-26 17:42:51.061000 +07:00,migrate_script,2484
+11,kys,KYS,nguyenthithuha,2020-01-20 10:22:26.843000 +07:00,dinhnguyen,2020-01-20 10:22:26.843000 +07:00,dinhnguyen,2484
+839,TPG.PH,TPG Philippines,nguyenthanhhieu,2021-08-09 09:34:09.606000 +07:00,nguyenthanhhieu,,,2484
+116,CPO.PH,CPO Philippines,nguyenthanhhieu,2021-01-05 11:34:37.312000 +07:00,nguyenthanhhieu,,,2484
+117,AMZ.PH,AMZ Philippines,nguyenthanhhieu,2021-01-05 11:35:05.985000 +07:00,nguyenthanhhieu,,,2484
+118,LZC.PH,LZC Philippines,nguyenthanhhieu,2021-01-05 11:35:42.277000 +07:00,nguyenthanhhieu,,,2484
+115,SWA.PH,SWASDI Philippines,nguyenthanhhieu,2021-01-05 11:33:15.244000 +07:00,nguyenthanhhieu,,,2484
+119,BLW.PH,BLW Philippines,nguyenthanhhieu,2021-01-05 11:57:12.306000 +07:00,nguyenthanhhieu,,,2484
+179,WAR.PH,WAR Philippines,nguyenthanhhieu,2021-02-01 11:47:19.224000 +07:00,nguyenthanhhieu,,,2484
+278,HZT.PH,HZT Philippines,nguyenthanhhieu,2021-04-09 15:46:44.476000 +07:00,nguyenthanhhieu,,,2484
+344,IPT.PH,IPT Philippines,nguyenthanhhieu,2021-04-13 14:31:02.189000 +07:00,nguyenthanhhieu,,,2484
+47,ARN.PH,ARENA Philippines,nguyenthanhhieu,,,,,2484
+575,ARN-AG.PH,ARN - Agency Philipines,nguyenthanhhieu,2021-05-24 15:59:05.475000 +07:00,nguyenthanhhieu,,,2484
+773,TVH.PH,TVH Philippines,nguyenthanhhieu,2021-07-26 11:43:23.408000 +07:00,nguyenthanhhieu,,,2484
+806,1M.PH,1M Philippines,nguyenthanhhieu,2021-08-08 17:00:03.005000 +07:00,nguyenthanhhieu,,,2484
+905,gobizphil,Gobiz Dev Philipine,luongvancong,2021-08-30 20:18:57.963000 +07:00,luongvancong,,,2484
+938,ARN-TWB.PH,ARN.PH - The Wonder Boys,nguyenthanhhieu,2021-09-05 10:51:34.390000 +07:00,nguyenthanhhieu,,,2484
+939,ARN-BG.PH,ARN.PH - Big Goal,nguyenthanhhieu,2021-09-05 10:55:03.133000 +07:00,nguyenthanhhieu,,,2484
+971,NTN.PH,NTN Philippines,nguyenthanhhieu,2021-09-25 16:33:18.001000 +07:00,nguyenthanhhieu,,,2484
+609,1M$.VN,1M - VIFIBA Vietnam,nguyenthanhhieu,2021-05-25 14:18:46.234000 +07:00,nguyenthanhhieu,,,99603
+707,AMZ.VN,AMZ - VIFIBA Vietnam,nguyenthanhhieu,2021-06-08 13:16:54.211000 +07:00,nguyenthanhhieu,,,99603
+1037,GVG.PH,GVG Philipines,nguyenthanhhieu,2021-11-27 11:49:46.585000 +07:00,nguyenthanhhieu,,,2484
+674,CPO.VN,CPO - VIFIBA Vietnam,nguyenthanhhieu,2021-06-08 12:40:05.287000 +07:00,nguyenthanhhieu,,,99603
+146,EZT.ID,EZT Indonesia,nguyenthanhhieu,2021-01-12 10:00:20.277000 +07:00,nguyenthanhhieu,,,100395
+10,kaygroup,KayGroup,nguyenthithuha,2019-11-19 11:37:48.055000 +07:00,dinhnguyen,2019-11-19 11:37:48.055000 +07:00,dinhnguyen,100395
+509,WAR.ID,WAR Indonesia,nguyenthanhhieu,2021-05-05 10:55:01.661000 +07:00,nguyenthanhhieu,,,100395
+476,ARN.ID,Arena Indonesia,nguyenthanhhieu,2021-04-29 18:42:45.857000 +07:00,nguyenthanhhieu,,,100395
+443,CPO.ID,CPO Indonesia,nguyenthanhhieu,2021-04-26 15:13:38.928000 +07:00,nguyenthanhhieu,,,100395
+410,AMZ.ID,AMZ Indonesia,nguyenthanhhieu,2021-04-20 13:59:02.438000 +07:00,nguyenthanhhieu,,,100395
+377,HZT.ID,HZT Indonesia,nguyenthanhhieu,2021-04-14 16:07:33.745000 +07:00,nguyenthanhhieu,,,100395
+872,TVH.ID,TVH Indonesia,nguyenthanhhieu,2021-08-11 11:27:32.545000 +07:00,nguyenthanhhieu,,,100395
+608,1M$.ID,1M$ Indonesia,nguyenthanhhieu,2021-05-25 14:17:01.745000 +07:00,nguyenthanhhieu,,,100395
+180,vIndo,vIndo,luongvancong,2021-02-02 09:31:23.795000 +07:00,luongvancong,,,100395
+181,EZTNEW.ID,EZT Indonesia_New,nguyenthanhhieu,2021-02-11 17:43:18.099000 +07:00,nguyenthanhhieu,,,100395
+641,BLW.ID,BLW Indonesia,nguyenthanhhieu,2021-05-27 23:16:20.499000 +07:00,nguyenthanhhieu,,,100395
+3,IN,InStyle,nguyenvangiang,2018-11-26 13:23:26.563000 +07:00,dinhnguyen,2018-11-26 13:23:26.563000 +07:00,dinhnguyen,99603
+4,DVKH,DVKH,phanthikieutrang,2018-11-28 12:20:07.749000 +07:00,dinhnguyen,2018-11-28 12:20:07.749000 +07:00,dinhnguyen,99603
+5,TFLO,T-FLO,dohuyentrang183,2018-12-03 09:22:27.237000 +07:00,dinhnguyen,2018-12-03 09:22:27.237000 +07:00,dinhnguyen,99603
+80,taozai,Tao Zai Team,luongvancong,,,,,99603
+8,vpt_vn,Vòng phong thuỷ,hanhnguyen050195,2019-08-26 13:39:23.686000 +07:00,dinhnguyen,2019-08-26 13:39:23.686000 +07:00,dinhnguyen,99603
+9,t-flo,t-flo,chuhien95,2019-09-12 10:08:00.776000 +07:00,dinhnguyen,2019-09-12 10:08:00.776000 +07:00,dinhnguyen,99603
+740,1M.BEE.VN,1M - Superbee Vietnam,nguyenthanhhieu,2021-06-18 17:09:28.097000 +07:00,nguyenthanhhieu,,,99603
+12,ezt-vn,EZT Vietnam,nguyenthanhhieu,2020-03-23 14:14:22.107000 +07:00,dinhnguyen,2020-03-23 14:14:22.107000 +07:00,dinhnguyen,99603
+13,ezt-vn-lzc,EZT.VN - LZC,nguyenthithuha,2020-04-10 08:40:02.341000 +07:00,dinhnguyen,2020-04-10 08:40:02.341000 +07:00,dinhnguyen,99603
+15,cong,cong,admin,2020-09-16 14:24:42.485000 +07:00,admin,2020-09-16 14:24:42.485000 +07:00,admin,99603
+113,vthailand,vthailand,luongvancong,2020-12-30 16:45:53.761000 +07:00,luongvancong,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+213,ARN-MN.TH,ARENA Thailand MN,nguyenthanhhieu,2021-03-11 14:58:54.031000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+212,ARN.TH,ARENA Thailand MB,nguyenthanhhieu,2021-03-09 17:30:51.267000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+245,DPN.TH,DPN Thailand,nguyenthanhhieu,2021-04-01 16:13:24.979000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+311,LZC.TH,LZC Thailand,nguyenthanhhieu,2021-04-12 11:12:45.834000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+114,EZT.TH,EZT Thailand,dinhnguyen,2021-01-04 14:23:40.741000 +07:00,dinhnguyen,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+542,BWL.TH,BLW Thailand,nguyenthanhhieu,2021-05-15 09:49:32.647000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+1004,CPO.TH,CPO Thailand,nguyenthanhhieu,2021-11-05 16:03:00.747000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+2259,MPH.39,MPH.39 QUANG,votrungtin,2023-01-10 14:39:21.761000 +07:00,votrungtin,,,2484
+940,ARN-BD.PH,ARN - BIG DREAM,nguyenthanhhieu,2021-09-05 12:04:41.825000 +07:00,nguyenthanhhieu,,,2484
+345,IPT.ID,IPT Indonesia,nguyenthanhhieu,2021-04-13 14:32:05.012000 +07:00,nguyenthanhhieu,,,100395
+1070,AMZ.TH,AMZ Thailand,nguyenthanhhieu,2021-12-31 13:56:15.337000 +07:00,nguyenthanhhieu,2022-01-11 14:24:33.005937 +07:00,luongvancong,112474
+1103,QT.PH,QT Philippines,nguyenthanhhieu,2022-03-01 16:33:45.589000 +07:00,nguyenthanhhieu,,,2484
+1137,R&D.ID,Vela R&D Indonesia,nguyenthanhhieu,2022-03-28 09:55:27.213000 +07:00,nguyenthanhhieu,,,100395
+1138,ARN06,ARN Inhouse HCM Philippines,nguyenthanhhieu,2022-03-31 16:02:16.167000 +07:00,nguyenthanhhieu,,,2484
+1139,WG.PH,WGLOBAL Philippines,nguyenthanhhieu,2022-04-04 13:52:46.952000 +07:00,nguyenthanhhieu,,,2484
+1140,WG.TH,WGLOBAL Thailand,nguyenthanhhieu,2022-04-07 16:21:09.055000 +07:00,nguyenthanhhieu,,,112474
+1136,R&D.PH,Vela R&D Philippines,nguyenthanhhieu,2022-03-28 09:53:52.391000 +07:00,nguyenthanhhieu,,,2484
+1141,WG.ID,WGLOBAL Indonesia,nguyenthanhhieu,2022-04-20 13:45:49.886000 +07:00,nguyenthanhhieu,,,100395
+1169,ARN-CTB.PH,CITY BOYS Philippines,nguyenthanhhieu,2022-05-13 11:35:02.793000 +07:00,nguyenthanhhieu,,,2484
+1202,WARLG.PH,WARPH Legend,nguyenthanhhieu,2022-06-02 10:38:43.072000 +07:00,nguyenthanhhieu,,,2484
+1203,WARVK.PH,WARPH Viking,nguyenthanhhieu,2022-06-02 10:40:41.511000 +07:00,nguyenthanhhieu,,,2484
+1204,WARTT.PH,WARPH Titans,nguyenthanhhieu,2022-06-02 10:41:27.546000 +07:00,nguyenthanhhieu,,,2484
+1205,FLASH.PH,FLASH Philippines,nguyenthanhhieu,2022-06-02 17:24:18.300000 +07:00,nguyenthanhhieu,,,2484
+1235,R&D.TH,R&D Thailand,nguyenthanhhieu,2022-07-11 14:57:37.270000 +07:00,nguyenthanhhieu,,,112474
+1268,EZ.ID,EZ Indonesia,nguyenthanhhieu,2022-07-14 15:30:41.148000 +07:00,nguyenthanhhieu,,,100395
+1301,BORA.TH,BORA Thailand,nguyenthanhhieu,2022-07-18 15:06:38.160000 +07:00,nguyenthanhhieu,,,112474
+1334,MPH-06,MPH-06 NGOC,nguyenthanhhieu,2022-07-19 09:48:05.335000 +07:00,nguyenthanhhieu,,,2484
+1367,OM.ID,OMUSE INDO,nguyenthanhhieu,2022-07-25 10:59:58.267000 +07:00,nguyenthanhhieu,,,100395
+1400,WARCHATBOX,WARPH.CHATBOX,nguyenthanhhieu,2022-07-30 10:56:09.716000 +07:00,nguyenthanhhieu,,,2484
+1433,MID.02,MID.02 NGHIA,nguyenthanhhieu,2022-08-08 15:07:04.160000 +07:00,votrungtin,,,100395
+1434,MPH.11,MPH.11 TRAN,votrungtin,2022-08-08 15:27:25.633000 +07:00,votrungtin,,,2484
+1466,MPH.12,MPH.12 DUY,votrungtin,2022-08-09 09:13:59.558000 +07:00,votrungtin,,,2484
+1467,MTH.13,MTH.13 MINH,votrungtin,2022-08-09 09:28:59.449000 +07:00,votrungtin,,,112474
+1499,1234,vendor test,arian,2022-08-16 15:34:01.747000 +07:00,haiyen,,,99603
+1500,456,testA,haiyen,2022-08-16 16:41:27.390000 +07:00,haiyen,,,99603
+1501,5657,yen test,haiyen,2022-08-17 08:55:04.774000 +07:00,haiyen,,,112474
+1502,LZC.ID,LZC Indonesia,nguyenthanhhieu,2022-08-21 16:58:53.304000 +07:00,nguyenthanhhieu,,,100395
+1533,MID.08,MID.08 VUDUY,votrungtin,2022-08-22 14:34:42.125000 +07:00,votrungtin,,,100395
+1532,MID.01,MID.01 DUONG,votrungtin,2022-08-22 14:20:04.648000 +07:00,votrungtin,,,100395
+1534,MID.04,MID.04 HA,votrungtin,2022-08-22 14:50:44.445000 +07:00,votrungtin,,,100395
+1535,MPH.03,MPH.03 NGOC,votrungtin,2022-08-22 14:56:11.848000 +07:00,votrungtin,,,2484
+1536,MPH.05,MPH.05 TRANG,votrungtin,2022-08-22 14:58:32.737000 +07:00,votrungtin,,,2484
+1537,MPH.06,MPH.06 THAO,votrungtin,2022-08-22 15:05:29.293000 +07:00,votrungtin,,,2484
+1538,MPH.07,MPH.07 HIEN,votrungtin,2022-08-22 15:10:30.693000 +07:00,votrungtin,,,2484
+1539,MPH.09,MPH.09 PHUONG,votrungtin,2022-08-22 15:12:05.112000 +07:00,votrungtin,,,2484
+1540,MPH.10,MPH.10 MY,votrungtin,2022-08-22 15:13:27.652000 +07:00,votrungtin,,,2484
+1541,MTH.15,MTH.15 QUANG,votrungtin,2022-08-22 15:16:04.888000 +07:00,votrungtin,,,112474
+1542,BORA.LD.TH,ladycare group,nguyenthanhhieu,2022-08-29 06:01:53.866000 +07:00,nguyendd,,,112474
+1565,OP Test,Operation Test,nguyendd,2022-09-05 09:13:22.980000 +07:00,nguyendd,,,100395
+1598,MMY.17,MMY.17 TRANG,votrungtin,2022-09-13 09:42:52.656000 +07:00,votrungtin,,,115873
+1599,MMY.18,MMY.18 NGOC,votrungtin,2022-09-13 09:45:45.394000 +07:00,votrungtin,,,115873
+1600,MMY.19,MMY.19 MY,votrungtin,2022-09-13 09:46:38.771000 +07:00,votrungtin,,,115873
+1601,MVN.16,MMY.16 R&D,votrungtin,2022-09-13 09:47:18.385000 +07:00,votrungtin,,,115873
+1631,vmycong,Vendor MalaySia Cong,luongvancong,2022-09-14 14:00:58.573000 +07:00,luongvancong,,,115873
+1632,BORA.PH,BORA Philippines,nguyendd,2022-09-15 09:45:59.407000 +07:00,nguyendd,,,2484
+1664,MMY.20,MMY.20 R&D TRADING,votrungtin,2022-09-23 09:29:20.149000 +07:00,votrungtin,,,115873
+1697,MPH.21,MPH.21 DIGITAL,votrungtin,2022-09-28 16:45:40.938000 +07:00,votrungtin,,,2484
+1730,MMY.22,MMY.22 VUDUY,votrungtin,2022-10-03 16:25:50.774000 +07:00,votrungtin,,,115873
+1763,gobizvn,Gobiz VN,dinhnguyen,2022-10-10 14:48:12.142000 +07:00,dinhnguyen,,,99603
+1797,MID.24,MID.24 R&D TRADING,votrungtin,2022-10-14 14:50:15.435000 +07:00,votrungtin,,,100395
+1796,MPH.23,MPH.23 CHIEN,votrungtin,2022-10-14 14:40:55.253000 +07:00,votrungtin,,,2484
+1829,MMY.25,MMY.25 QUANG,votrungtin,2022-10-21 13:39:37.646000 +07:00,votrungtin,,,115873
+1862,MPH.26,MPH.26 R&D TRADING,votrungtin,2022-10-25 16:17:19.131000 +07:00,votrungtin,,,2484
+1895,MMY.27,MMY.27 Reckless,votrungtin,2022-10-27 13:43:10.329000 +07:00,votrungtin,,,115873
+1928,gobiz_indo,Gobiz test Indo,dinhnguyen,2022-10-31 14:23:10.091000 +07:00,dinhnguyen,,,100395
+1961,PHU.TEST,PHU. TEST,nguyendd,2022-11-03 15:33:05.421000 +07:00,nguyendd,,,115873
+1994,MID.29,MID.29 THG,votrungtin,2022-12-03 09:51:02.501000 +07:00,votrungtin,,,100395
+1995,MPH.30,MPH.30 ATHENAS,votrungtin,2022-12-03 09:55:41.951000 +07:00,votrungtin,,,2484
+2027,fr,FR,dinhnguyen,2022-12-06 14:24:21.161000 +07:00,dinhnguyen,,,2484
+2060,MPH.31,MPH.31 DOTIENICH,votrungtin,2022-12-22 12:47:16.642000 +07:00,votrungtin,,,2484
+2061,MMY.32,MMY.32 BCE ONLINE,votrungtin,2022-12-22 15:19:15.790000 +07:00,votrungtin,,,115873
+2093,MTH.33,MTH.33.STAREK,votrungtin,2022-12-30 14:44:13.697000 +07:00,votrungtin,,,112474
+2126,MMY.35,MMY.35 CHIEN,votrungtin,2023-01-03 11:05:01.392000 +07:00,votrungtin,,,115873
+2159,MTH.36,MTH.36 THG,votrungtin,2023-01-04 10:58:15.464000 +07:00,votrungtin,,,112474
+2192,MKH.37,MKH.37 THAO,votrungtin,2023-01-04 23:44:27.810000 +07:00,votrungtin,,,116896
+2225,MKH.34,MKH.34 MY,votrungtin,2023-01-05 11:38:04.601000 +07:00,votrungtin,,,116896
+2258,MKH.38,MKH.38 QUANG,quachthanhquang_ezbiz,2023-01-10 14:33:45.476000 +07:00,votrungtin,,,116896
+2291,MTH.39,MTH.39 LAZACHIP,nguyendd,2023-01-12 17:04:47.737000 +07:00,nguyendd,,,112474
+2292,MTH.40,MTH.40 LAZACHEAP,nguyendd,2023-01-12 17:10:20.019000 +07:00,nguyendd,,,112474
+2324,MMY.41,MMY.41 LAZACHEAP,nguyendd,2023-01-16 13:05:43.000000 +07:00,nguyendd,,,115873
+2357,MPH.42,MPH.42 SHOPEE GLOBAL,nguyendd,2023-02-04 08:46:33.676000 +07:00,nguyendd,,,2484
+2390,MPH.40,MPH.40 STAREK,votrungtin,2023-02-08 14:14:58.385000 +07:00,votrungtin,,,2484
+2391,MTH.41,MTH.41 AZBOOK ASIA,votrungtin,2023-02-08 16:08:46.730000 +07:00,votrungtin,,,112474
+2423,MPH.43,MPH.43 NGHI HUNG SHOP,votrungtin,2023-03-01 12:17:49.968000 +07:00,votrungtin,,,2484
+2456,MKH.44,KHOI SHOP CAMBODIA,votrungtin,2023-03-02 16:57:43.482000 +07:00,votrungtin,,,116896
+2489,MTH.45,PADUCO THAILAN,votrungtin,2023-03-03 17:37:42.049000 +07:00,votrungtin,,,112474
+2522,MPH.44,MPH.44 DIGITAL - SHOPEE GLOBAL,nguyendd,2023-03-13 17:56:57.762000 +07:00,nguyendd,,,2484

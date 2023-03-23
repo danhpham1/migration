@@ -1,0 +1,39 @@
+sku,product,variant,status,is_generated_sku,created_by,updated_by
+sku01678261512047,MY2209010,{"Quantity": "Set"},true,true,system,system
+sku01678261562281,MY2209011,{"Quantity": "Piece"},true,true,system,system
+sku01678332887147,PH1209019,{"Quantity": "Piece"},true,true,system,system
+sku01678332917307,KH3409008,{"Quantity": "Piece"},true,true,system,system
+sku01678413339763,PH4409004,{"Quantity": "Piece"},true,true,system,system
+sku01678438961615,ID0109025,{"Quantity": "Piece"},true,true,system,system
+sku01678675389477,MY1809013,{"Quantity": "Piece"},true,true,system,system
+sku01678676687348,LZC09187,{"Quantity": "Piece"},true,true,system,system
+sku01678677057126,PH0705007,{"Quantity": "Piece"},true,true,system,system
+sku01678696734717,KH3409009,{"Quantity": "Piece"},true,true,system,system
+sku01678697570291,KH09009,{"Quantity": "Piece"},true,true,system,system
+sku11678698990938,KH09009,{"Color": "Black ","Quantity": "Piece"},true,true,system,system
+sku21678698990966,KH09009,{"Color": "White","Quantity": "Piece"},true,true,system,system
+sku31678698990981,KH09009,{"Color": "Red","Quantity": "Piece"},true,true,system,system
+sku01678768500995,MTH360901,{"quantity": "set"},true,true,system,system
+sku01678893139932,MY25005014,{"Quantity": "Set"},true,true,system,system
+sku01678933813600,KH3403010,{"Quantity": "Piece"},true,true,system,system
+sku01678937789487,PH2601008,{"Quantity": "Set"},true,true,system,system
+sku01678938126064,PH0609009,{"Quantity": "Piece"},true,true,system,system
+sku01678938607504,LZC09188,{"Quantity": "Set"},true,true,system,system
+sku01678938826340,MY2509015,{"Quantity": "Piece"},true,true,system,system
+sku01678939441244,ID0804021,{"Quantity": "Piece"},true,true,system,system
+sku01678939628041,ID0804022,{"Quantity": "piece"},true,true,system,system
+sku01678939808773,PH0309020,{"Quantity": "Piece"},true,true,system,system
+sku01678952568122,MTH360902,{"quantity": "set"},true,true,system,system
+sku01679004462253,ID0809025,{"Quantity": "piece"},true,true,system,system
+sku01679047190398,BORA09001,{"Quantity": "Piece"},true,true,system,system
+sku01679047321401,BORA09002,{"Quantity": "Piece"},true,true,system,system
+sku01679181257166,ID01090026,{"Quantity": "Piece"},true,true,system,system
+sku01679294604885,MY1901016,{"Quantity": "Black"},true,true,system,system
+sku11679294604939,MY1901016,{"Quantity": "Gold"},true,true,system,system
+sku01679294654877,MY1909017,{"Quantity": "Piece"},true,true,system,system
+sku01679450334543,PH1009021,{"Quantity": "Piece"},true,true,system,system
+sku01679459578593,PH1203022,{"Quantity": "Set"},true,true,system,system
+sku01679460356324,ID0809026,{"Quantity": "Piece"},true,true,system,system
+sku01679472304788,PH2809034,{"Quantity": "Piece"},true,true,system,system
+sku01679555865783,MY1709002,{"Quantity": "Piece"},true,true,system,system
+undefined,undefined,undefined,true,true,system,system
